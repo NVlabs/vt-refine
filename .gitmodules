@@ -1,0 +1,12 @@
+[submodule "easysim"]
+	path = easysim
+	url = https://github.com/NVlabs/easysim.git
+	branch = main
+[submodule "easysim-envs"]
+	path = easysim-envs
+	url = https://github.com/NVlabs/easysim-envs.git
+	branch = main
+[submodule "dppo"]
+	path = dppo
+	url = https://github.com/NVlabs/dppo.git
+	branch = vt-refine

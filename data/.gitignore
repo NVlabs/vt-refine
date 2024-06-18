@@ -1,0 +1,7 @@
+# Copyright (c) 2024-2025 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+#
+# Licensed under the NVIDIA License [see LICENSE for details].
+
+*
+
+!fetch_vt-refine_data.sh
